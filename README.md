@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/开车杰夫/vue3-tomato-timer.git
+git clone https://github.com/861668495/vue3-tomato-timer.git
 cd vue3-tomato-timer
 
 # 安装依赖
