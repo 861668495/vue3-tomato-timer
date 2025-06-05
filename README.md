@@ -11,8 +11,8 @@
 - 明暗模式切换（支持本地保存）
 - 音效开关（本地保存）
 - 完全移动端适配
-![image](https://github.com/user-attachments/assets/72a55563-b248-405b-b89c-8aabed9afb0f)
-![image](https://github.com/user-attachments/assets/a72caa51-9d36-4d2b-adfe-f05243623ee8)
+![20250605213123_rec_](https://github.com/user-attachments/assets/b83cf3ab-6861-4545-8f7c-58610599c5f6)
+
 
 ## 🧑‍💻 技术栈
 - Vue 3
